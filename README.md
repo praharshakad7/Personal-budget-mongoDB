@@ -1,1 +1,5 @@
-# Personal-budget-mongoDB
+# Info
+
+The path to NGInx main folder:
+/usr/share/nginx/html
+
